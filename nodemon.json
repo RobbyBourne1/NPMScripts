@@ -1,0 +1,4 @@
+{
+  "ext": "*,js, *,mustache, *,mst, *,css",
+  "verbose": true
+}
